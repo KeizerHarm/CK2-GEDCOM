@@ -1,0 +1,48 @@
+0 HEAD
+1 SOUR SIMPLE_FAMILY_TREE
+2 VERS 1.31
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Willem-Alexander /van Oranje-Nassau/
+1 SEX M
+1 BIRT
+2 DATE 27 Apr 1967
+1 FAMC @F2@
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Máxima //
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F1@
+1 NOTE german gregarious
+2 CONT catholic
+0 @I3@ INDI
+1 NAME Catharina-Amalia /van Oranje-Nassau/
+1 SEX F
+1 BIRT
+2 DATE 30 Apr 2003
+1 FAMC @F1@
+1 NOTE ambitious groomed
+0 @I4@ INDI
+1 NAME Claus George Willem Otto Frederik Geert /van Amsberg/
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 2002
+1 FAMS @F2@
+0 @F1@ FAM
+1 MARR
+1 DIV
+2 DATE 5 Feb 2007
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I4@
+1 CHIL @I1@
+0 TRLR
